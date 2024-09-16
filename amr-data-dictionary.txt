@@ -12,3 +12,5 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 * region - region of residence
 
+* organism - name of organism
+
