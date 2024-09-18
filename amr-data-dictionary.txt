@@ -5,10 +5,9 @@ AMR data
 These data represent the sort of data that might be obtained from the 2nd generation surveillance system.
 
 * id Integer - A unique identifier for each person
+* dob Character - a string giving the date of birth
 
 * specimen date - date of specimen
-
-* date of birth - date 
 
 * region - region of residence
 
