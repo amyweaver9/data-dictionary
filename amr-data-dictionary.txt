@@ -2,7 +2,7 @@ AMR data
 
 Author: Amy Weaver
 - Adewole was here
-Making AA change here
+CHANGE BY AMY
 Hello Amy
 
 100,000 rows of 12 variables
@@ -18,4 +18,3 @@ These data represent the sort of data that might be obtained from the 2nd genera
 
 * organism - name of organism
 
-CHANGE BY AMY
